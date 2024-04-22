@@ -1,0 +1,12 @@
+{
+  "name": "jshwlib",
+  "version": "1.0.0",
+  "description": "Test Node JS library",
+  "main": "jshwlib.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["hello-world"],
+  "author": "moltony",
+  "license": "MIT"
+}
