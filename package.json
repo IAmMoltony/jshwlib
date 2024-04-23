@@ -1,12 +1,22 @@
 {
-  "name": "jshwlib",
+  "name": "@moltony/jshwlib",
   "version": "1.0.0",
   "description": "My First Node JS library",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
-  "keywords": ["hello-world"],
+  "keywords": [
+    "hello-world"
+  ],
   "author": "moltony",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IAmMoltony/jshwlib.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IAmMoltony/jshwlib/issues"
+  },
+  "homepage": "https://github.com/IAmMoltony/jshwlib#readme"
 }
