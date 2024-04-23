@@ -1,8 +1,8 @@
 {
   "name": "jshwlib",
   "version": "1.0.0",
-  "description": "Test Node JS library",
-  "main": "jshwlib.js",
+  "description": "My First Node JS library",
+  "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },

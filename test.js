@@ -1,2 +1,2 @@
-const helloWorld = require("./jshwlib");
+const helloWorld = require(".");
 helloWorld();
